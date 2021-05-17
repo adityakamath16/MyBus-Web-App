@@ -16,7 +16,7 @@ MyBus - College Bus Tracking and Booking system
 
  ## Clone Repository
  ```
-  https://github.com/adityakamath16/MyBus.git
+  https://github.com/adityakamath16/MyBus-Web-App.git
  ```
 <br>
 
