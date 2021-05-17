@@ -21,7 +21,7 @@ MyBus - College Bus Tracking and Booking system
 <br>
 
  ## Other Platforms
- This project also has two other platforms , Website and IOS.
+ This project also has three other platforms.
  
  ### Android version
  ```
